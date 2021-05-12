@@ -8,7 +8,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "@kenshooui/react-multi-select": "^1.1.0",
     "bootstrap": "^4.3.1",
-    "chart.js": "^1.1.1",
+    "chart.js": "^2.9.4",
     "dateformat": "^3.0.3",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
